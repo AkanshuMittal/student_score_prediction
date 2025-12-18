@@ -1,1 +1,1 @@
-## End to End House Price Prediction Pipeline
+## End to End Student Score Prediction Pipeline
